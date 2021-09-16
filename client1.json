@@ -1,0 +1,16 @@
+{
+	"id": "ionas",
+	"password": "12345",
+	"server":
+	{
+		"ip": "127.0.0.1",
+		"port": "10050"
+	},
+	"action": {
+		"delay": "5",
+		"steps": [
+			"INCREASE 10",
+			"DECREASE 5"
+		]
+	}
+}
