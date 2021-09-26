@@ -7,10 +7,11 @@
 		"port": "10050"
 	},
 	"action": {
-		"delay": "5",
+		"delay": "1",
 		"steps": [
 			"INCREASE 10",
-			"DECREASE 5"
+			"DECREASE 5",
+			"INCREASE 10"
 		]
 	}
 }
